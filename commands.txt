@@ -1,0 +1,20 @@
+https://github.com/xdeviadat/bkp202510.git
+
+git@github.com:xdeviadat/bkp202510.git
+
+git clone https://github.com/xdeviadat/bkp202510.git
+
+
+git clone https://github.com/xdeviadat:Myfga2025/bkp202510.git
+
+
+git clone https://github.com/xdeviadat/prueba202510.git
+
+
+git add --all
+git commit -m "miinfoinicial"
+
+git push origin main
+
+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
+

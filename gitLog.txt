@@ -1,0 +1,349 @@
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~
+$ ls
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{eeaf7173-5222-11f0-9dab-00059a3c7a00}.TM.blf
+ NTUSER.DAT{eeaf7173-5222-11f0-9dab-00059a3c7a00}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{eeaf7173-5222-11f0-9dab-00059a3c7a00}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+'OneDrive - Capgemini'/
+ PSAppDeployToolkit/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ labAWS/
+ labAudio/
+ labDocker/
+ labphyton/
+ machine-learning-engineering-for-production-public/
+ mintty.exe.stackdump
+ mongo/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ shell1.sh*
+ shell10.sh*
+ shell11
+ shell11.sh*
+ shell12_function.sh*
+ shell13_function.sh*
+ shell13_wild.sh*
+ shell14_wild.sh*
+ shell14wild.sh
+ shell15_case.sh*
+ shell16_log.sh*
+ shell17_while.sh*
+ shell18_while.sh*
+ shell19_debug.sh*
+ shell19_while.sh*
+ shell2.sh*
+ shell3.sh*
+ shell4.sh*
+ shell6.sh*
+ shell7.sh*
+ shell8.sh*
+ shell9.sh*
+ sleep-walking-server.sh*
+ tmp/
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~
+$ cd tmp
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/tmp
+$ ls
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/tmp
+$ ls
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/tmp
+$ cd ..
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~
+$ cd ~
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~
+$ ls
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{eeaf7173-5222-11f0-9dab-00059a3c7a00}.TM.blf
+ NTUSER.DAT{eeaf7173-5222-11f0-9dab-00059a3c7a00}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{eeaf7173-5222-11f0-9dab-00059a3c7a00}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+'OneDrive - Capgemini'/
+ PSAppDeployToolkit/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ labAWS/
+ labAudio/
+ labDocker/
+ labphyton/
+ machine-learning-engineering-for-production-public/
+ mintty.exe.stackdump
+ mongo/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ shell1.sh*
+ shell10.sh*
+ shell11
+ shell11.sh*
+ shell12_function.sh*
+ shell13_function.sh*
+ shell13_wild.sh*
+ shell14_wild.sh*
+ shell14wild.sh
+ shell15_case.sh*
+ shell16_log.sh*
+ shell17_while.sh*
+ shell18_while.sh*
+ shell19_debug.sh*
+ shell19_while.sh*
+ shell2.sh*
+ shell3.sh*
+ shell4.sh*
+ shell6.sh*
+ shell7.sh*
+ shell8.sh*
+ shell9.sh*
+ sleep-walking-server.sh*
+ tmp/
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~
+$ cd documents
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents
+$ ls
+ BKP08072025/                         'My Videos'@
+ BKP202510/                           'My reflections_Thalia.msg'
+ Capgemini2/                           Replicon.-_Manual_del_Colaborador.pdf
+ Capgemini2_20230915.zip              'Writing a presentation outline.docx'
+'Colaboradores_Briefing Session.pdf'   Zoom/
+'Custom Office Templates'/             Zscaler-2024-08-22-10-23-09.zip
+'Dataiku TT'/                          desktop.ini
+'Juego 1.xlsx'                         fgaIV/
+ MailThalia.pdf                        fgaIV.zip
+ Miniconda3-latest-Windows-x86.exe*   'google Vertex API AI PALM'/
+'My Music'@                            python-3.7.4.exe*
+'My Pictures'@                         yEd-3.20_with-JRE13_64-bit_setup.exe*
+'My SlickEdit Config'/
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents
+$ cd BKP202510
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510
+$ ls
+Capgemini002/
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510
+$ cd Capgemini002
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/Capgemini002
+$ ls
+Otros2_GENAI_Architect.zip  Otros2_ProcesoDiasVacaciones.zip
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/Capgemini002
+$ cd ..
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510
+$ git clone https://github.com/xdeviadat/bkp202510.git
+Cloning into 'bkp202510'...
+fatal: Error al enviar la solicitud.
+fatal: Se ha terminado la conexión: Error inesperado de recepción.
+fatal: No se puede escribir datos de en la conexión de transporte: Se ha forzado la interrupción de una conexión existente por el host remoto.
+fatal: Se ha forzado la interrupción de una conexión existente por el host remoto
+error: unable to read askpass response from 'C:/Users/fgilantu/AppData/Local/Programs/Git/mingw64/bin/git-askpass.exe'
+Username for 'https://github.com': xdeviadat
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/xdeviadat/bkp202510.git/'
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510
+$ git clone https://github.com/xdeviadat:Myfga2025/bkp202510.git
+Cloning into 'bkp202510'...
+remote: Repository not found.
+fatal: repository 'https://github.com/xdeviadat:Myfga2025/bkp202510.git/' not found
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510
+$ git clone https://github.com/xdeviadat/prueba202510.git
+Cloning into 'prueba202510'...
+warning: You appear to have cloned an empty repository.
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510
+$ ls
+Capgemini002/  prueba202510/
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510
+$ cd prueba202510
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ ls
+Banca2025.zip  Solution2025.zip  cv2025.zip
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git add Banca2025.zip
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git add Solution2025.zip
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git add cv2025.zip
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git add Otros2*.zip
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git add Ingles*.*
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git commit
+[main (root-commit) 939e703]            tsttt   # Please enter the commit message for your changes. Lines starting              # with '#' will be ignored, and an empty message aborts the commit.     #
+ Committer: Antunez <felipe.gil-antunez@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Banca2025.zip
+ create mode 100644 Inglesweek1-4.zip
+ create mode 100644 Inglesweek4-8.zip
+ create mode 100644 Otros2_GENAI_Architect.zip
+ create mode 100644 Otros2_ProcesoDiasVacaciones.zip
+ create mode 100644 Solution2025.zip
+ create mode 100644 cv2025.zip
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git push origin main
+fatal: helper error (-1): User cancelled dialog.
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/xdeviadat/prueba202510.git/'
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git push origin main
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 79.59 MiB | 1.04 MiB/s, done.
+Total 9 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/xdeviadat/prueba202510.git
+ * [new branch]      main -> main
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git add BBVA*.*
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git add pagos*.*
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git Acceso.zip
+git: 'Acceso.zip' is not a git command. See 'git --help'.
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git add Acceso.zip
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git commit -m "segundoload"
+[main 480cfe9] segundoload
+ Committer: Antunez <felipe.gil-antunez@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Acceso.zip
+ create mode 100644 BBVA2019_2022.zip
+ create mode 100644 BBVA2023_2025.zip
+ create mode 100644 pagos_otros.zip
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git push origin main
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (6/6), done.
+error: unable to rewind rpc post data - try increasing http.postBuffer
+error: RPC failed; curl 65 Recv failure: Connection was reset
+send-pack: unexpected disconnect while reading sideband packet
+Writing objects: 100% (6/6), 77.75 MiB | 1.26 MiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$ git push origin main
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 77.75 MiB | 1.17 MiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/xdeviadat/prueba202510.git
+   939e703..480cfe9  main -> main
+
+fgilantu@LMX-5CG20802S3 MINGW64 ~/documents/BKP202510/prueba202510 (main)
+$
